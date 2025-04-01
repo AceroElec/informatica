@@ -1,5 +1,5 @@
-ID;Estilo;Descripción
-1;Visual;Prefiere imágenes, gráficos y demostraciones.
-2;Auditivo;Prefiere escuchar explicaciones y discusiones.
-3;Kinestésico;Prefiere la actividad física y la manipulación.
+ID;Estilo;Descripción;
+1;Visual;Prefiere imágenes, gráficos y demostraciones.;
+2;Auditivo;Prefiere escuchar explicaciones y discusiones.;
+3;Kinestésico;Prefiere la actividad física y la manipulación.;
 4;Lector;Prefiere leer textos y materiales escritos.
